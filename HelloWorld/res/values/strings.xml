@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">HelloWorld</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">俄罗斯方块</string>
+    <string name="hello_world">俄罗斯方块</string>
+    <string name="action_settings">设置</string>
+    <string name="startButton">开始游戏</string>
+    <string name="copyright">version 0.1</string>
+    <string name="title_activity_game_">俄罗斯方块</string>
 
 </resources>
